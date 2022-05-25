@@ -1,0 +1,11 @@
+tf-model-official==2.5.0
+json
+streamlit
+pandas
+numpy
+hydralit_components
+tensorflow==2.8.0
+tensorflow_hub==0.12.0
+nltk
+pymongo
+sqlite3
